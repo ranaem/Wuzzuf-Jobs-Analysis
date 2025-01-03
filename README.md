@@ -6,3 +6,6 @@ Analyze the data..
 All of this with Python 
 
 Finally I used PowerBi for more Analysis and Visualisations.
+
+
+For the Dataset I created if you interested : https://www.kaggle.com/datasets/rananafea/wuzzuf-egypt-jobs
